@@ -37,4 +37,9 @@ public class ErrorMessageTest extends BaseTest {
 
 	}
 
+	@Test
+	public void addnewMethods() {
+		System.out.println("add one testcase to framwork");
+	}
+
 }
